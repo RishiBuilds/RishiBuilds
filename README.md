@@ -35,7 +35,8 @@ Currently exploring **React**, **full-stack web apps**, and **AI-powered ideas**
 
 ---
 
-### Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+### Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ---
 
