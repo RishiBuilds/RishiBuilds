@@ -22,10 +22,23 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 
 ## Connect With Me
 <div align="center">
-[![Bluesky](https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FFFFFF)](https://bsky.app/profile/rishichaurasia.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/rishi_chaurasia_192) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/rishi-chaurasiya) 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/KingRishi2005) 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:rishi.chaurasia.dev@gmail.com)
+
+<a href="https://bsky.app/profile/rishichaurasia.bsky.social">
+   <img src="https://img.shields.io/badge/Bluesky-0D1117?style=for-the-badge&logo=bluesky&logoColor=FFFFFF"/>
+</a>
+<a href="https://instagram.com/rishi_chaurasia_192">
+   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+</a>
+<a href="https://linkedin.com/in/rishi-chaurasiya">
+   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+<a href="https://x.com/KingRishi2005">
+   <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+<a href="mailto:rishi.chaurasia.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
 </div>
 
 ---
