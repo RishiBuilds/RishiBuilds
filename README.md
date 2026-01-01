@@ -9,10 +9,9 @@
 
 </div>
 
-## 💫 About Me
+## About Me
 
-Just a programmer building things I find useful and interesting.  
-Currently exploring **React**, **full-stack web apps**, and **AI-powered ideas**.
+Developer focused on **full-stack web apps**, **React**, and **AI-driven projects**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RishiBuilds&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
