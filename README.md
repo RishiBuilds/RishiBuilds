@@ -45,7 +45,7 @@ Developer focused on <b>full-stack web apps, React </b> and <b>AI-driven project
 
 <h3>Tech Stack</h3> 
 
-</4>Frontend</h4>
+<h4>Frontend</h4>
 <p>
   
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
