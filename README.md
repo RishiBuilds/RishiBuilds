@@ -9,20 +9,21 @@
 
 </div>
 
-## About Me
+<p align="center">
+  
+  ## About Me
 
 Developer focused on **full-stack web apps**, **React**, and **AI-driven projects**.
-
-<p align="center">
   <img 
   src="https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=000000&style=for-the-badge" 
   alt="Profile Views"
 />
 </p>
 
-## Connect With Me
-
 <p align="center">
+  
+  ## Connect With Me
+  
 <a href="https://bsky.app/profile/rishichaurasia.bsky.social">
    <img src="https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" />
 </a>
@@ -40,11 +41,10 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 </a>
 </p>
 
+<p align="center">
 ## Tech Stack
 
 ### Frontend
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
