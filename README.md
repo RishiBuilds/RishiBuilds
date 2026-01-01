@@ -14,7 +14,10 @@
 Developer focused on **full-stack web apps**, **React**, and **AI-driven projects**.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=FFFFFF&style=for-the-badge" alt="Profile Views"/>
+  <img 
+  src="https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=000000&style=for-the-badge" 
+  alt="Profile Views"
+/>
 </p>
 
 ## 🌐 Connect With Me
