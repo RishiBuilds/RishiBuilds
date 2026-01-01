@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Rishi 👋
+# Hey, I’m Rishi 👋  
+### Full-Stack Developer | AI & ML Explorer | DevOps-Curious
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=React+%26+TypeScript+Developer;Full-stack+%28MERN%29+Web+Developer;AI+%26+ML+Enthusiast+%7C+B.Tech+CS+%28AI%2FML%29;Open-Source+Contributor;Building+clean+%26+useful+developer+tools"
-    alt="Typing SVG"
-  />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DevOps+and+Cloud+Explorer;Cybersecurity+Learner;Open+Source+Contributor" alt="Typing SVG"/>
+</a>
 
 </div>
 
