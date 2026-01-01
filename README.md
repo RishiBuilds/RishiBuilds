@@ -1,4 +1,15 @@
-## Hi there I'm Rishi👋
+<div align="center">
+
+# Hi there, I'm Rishi 👋
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=React+%26+TypeScript+Developer;Full-stack+%28MERN%29+Web+Developer;AI+%26+ML+Enthusiast+%7C+B.Tech+CS+%28AI%2FML%29;Open-Source+Contributor;Building+clean+%26+useful+developer+tools"
+    alt="Typing SVG"
+  />
+  </a>
+
+</div>
 
 ## 💫 About Me
 
