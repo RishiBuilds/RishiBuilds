@@ -21,8 +21,8 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 </p>
 
 ## Connect With Me
-<div align="center">
 
+<p>
 <a href="https://bsky.app/profile/rishichaurasia.bsky.social">
    <img src="https://img.shields.io/badge/Bluesky-0D1117?style=for-the-badge&logo=bluesky&logoColor=FFFFFF"/>
 </a>
@@ -38,10 +38,7 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 <a href="mailto:rishi.chaurasia.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
-
-</div>
-
----
+</p>
 
 ## Tech Stack
 
