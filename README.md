@@ -7,10 +7,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DevOps+and+Cloud+Explorer;Cybersecurity+Learner;Open+Source+Contributor" alt="Typing SVG"/>
 </a>
 
-</br>
+<br/>
 
 <p>
-Developer focused on **full-stack web apps**, **React**, and **AI-driven projects**.
+Developer focused on <b>full-stack web apps, React </b> and <b>AI-driven projects</b>.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 />
 </p>
 
-</br>
+<br/>
 
 <p>
 
@@ -41,11 +41,11 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 </a>
 </p>
 
-</br>
+<br/>
 
-### Tech Stack
+<h3>Tech Stack</h3> 
 
-#### Frontend
+</4>Frontend</h4>
 <p>
   
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
@@ -59,31 +59,76 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 
 </p>
 
+<h4>Backend</h4>
+<p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=FFFFFF) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+</p>
 
-### Deployment
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7) ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<h4>Databases</h4>
+<p>
 
----
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RishiBuilds&theme=github_dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&theme=github_dark&layout=compact)
+</p>
 
----
+<h4>Deployment</h4>
+<p>
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+
+</p>
+
+<br/>
+
+<h3>GitHub Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&theme=tokyonight&hide_border=true" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&theme=tokyonight&layout=compact&hide_border=true" />
+
+<br/>
 
 ### Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
----
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=RishiBuilds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## You can help me by donating
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rishiships)
+<p>
+
+<h3>You can support my work</h3>
+
+<a href="https://buymeacoffee.com/rishiships">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" />
+</a>
+
+</p>
+
+<br/>
+
+<h3>Contribution Snake</h3>
+<img 
+  src="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/snake.svg" 
+  alt="Snake Animation"
+/>
+
+<br/>
+
+</div>
