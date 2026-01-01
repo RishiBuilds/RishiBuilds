@@ -20,8 +20,13 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 />
 </p>
 
-## 🌐 Connect With Me
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/rishichaurasia.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi_chaurasia_192) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-chaurasiya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KingRishi2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishi.chaurasia.dev@gmail.com)
+## Connect With Me
+<div align="center">
+[![Bluesky](https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FFFFFF)](https://bsky.app/profile/rishichaurasia.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/rishi_chaurasia_192) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/rishi-chaurasiya) 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/KingRishi2005) 
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:rishi.chaurasia.dev@gmail.com)
+</div>
 
 ---
 
