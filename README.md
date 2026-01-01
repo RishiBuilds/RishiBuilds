@@ -1,29 +1,29 @@
 <div align="center">
 
-# Hey, I’m Rishi 👋  
+# Hey there, I’m Rishi 👋  
 ### Full-Stack Developer | AI & ML Explorer | DevOps-Curious
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DevOps+and+Cloud+Explorer;Cybersecurity+Learner;Open+Source+Contributor" alt="Typing SVG"/>
 </a>
 
-</div>
+</br>
+
+<p>
+Developer focused on **full-stack web apps**, **React**, and **AI-driven projects**.
+</p>
 
 <p align="center">
-  
-  ## About Me
-
-Developer focused on **full-stack web apps**, **React**, and **AI-driven projects**.
   <img 
   src="https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=000000&style=for-the-badge" 
   alt="Profile Views"
 />
 </p>
 
-<p align="center">
-  
-  ## Connect With Me
-  
+</br>
+
+<p>
+
 <a href="https://bsky.app/profile/rishichaurasia.bsky.social">
    <img src="https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" />
 </a>
@@ -41,11 +41,13 @@ Developer focused on **full-stack web apps**, **React**, and **AI-driven project
 </a>
 </p>
 
-<p align="center">
-## Tech Stack
+</br>
 
-### Frontend
+### Tech Stack
 
+#### Frontend
+<p>
+  
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
