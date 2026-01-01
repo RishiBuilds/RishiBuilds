@@ -93,59 +93,43 @@ Developer focused on <b>full-stack web apps, React </b> and <b>AI-driven project
 </p>
 
 <br/>
-<div align="center">
-
-## GitHub Stats
+<h3>GitHub Stats</h3>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&theme=tokyonight&hide_border=true"
   alt="GitHub Stats"
 />
-
 <img
-  src="https://streak-stats.demolab.com?user=RishiBuilds&theme=tokyonight&hide_border=true"
+  src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
-
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&theme=tokyonight&layout=compact&hide_border=true"
   alt="Top Languages"
 />
 
-<br/><br/>
+<br/>
 
-## Random Dev Quote
+### Random Dev Quote!
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
-  alt="Dev Quote"
+![Visits](https://visitcount.itsvg.in/api?id=RishiBuilds)
+
+<p>
+  <h3>You can support my work</h3>
+  <a href="https://buymeacoffee.com/rishiships">
+    <img
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00"
+      alt="Buy Me A Coffee"
 />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-<img
-  src="https://visitcount.itsvg.in/api?id=RishiBuilds&icon=0&color=0"
-  alt="Profile Views"
-/>
-
-<br/><br/>
-
-## You can support my work
-
-<a href="https://buymeacoffee.com/rishiships" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00"
-    alt="Buy Me a Coffee"
-  />
-</a>
-
-<br/><br/>
-
-## Contribution Snake
+<h3>Contribution Snake</h3>
 
 <img
   src="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/snake.svg"
-  alt="Contribution Snake Animation"
+  alt="Snake Animation"
 />
-
-</div>
+<br/>
