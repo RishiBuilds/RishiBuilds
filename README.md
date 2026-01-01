@@ -96,29 +96,21 @@ Developer focused on <b>full-stack web apps, React </b> and <b>AI-driven project
 <h3>GitHub Stats</h3>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
-<img
   src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&theme=tokyonight&layout=compact&hide_border=true"
-  alt="Top Languages"
 />
 
 <br/>
 
 ### Random Dev Quote!
 
-![Visits](https://visitcount.itsvg.in/api?id=RishiBuilds)
+![Visits](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p>
   <h3>You can support my work</h3>
   <a href="https://buymeacoffee.com/rishiships">
     <img
-      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00"
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFFFFF"
       alt="Buy Me A Coffee"
 />
   </a>
@@ -126,10 +118,4 @@ Developer focused on <b>full-stack web apps, React </b> and <b>AI-driven project
 
 <br/>
 
-<h3>Contribution Snake</h3>
-
-<img
-  src="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/snake.svg"
-  alt="Snake Animation"
-/>
-<br/>
+</div>
