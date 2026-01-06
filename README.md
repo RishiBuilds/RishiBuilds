@@ -1,121 +1,135 @@
 <div align="center">
 
-# Hey there, I’m Rishi 👋  
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Rishi%20Chaurasia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=55" width="100%" alt="Header"/>
+
+<br/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+full-stack+apps+with+React+%26+Node.js;Exploring+AI+%2F+ML+and+intelligent+systems;Learning+DevOps%2C+Cloud+%26+Cybersecurity;Contributing+to+open+source+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+</div>
+
+---
+
 ### Full-Stack Developer | AI & ML Explorer | DevOps-Curious
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DevOps+and+Cloud+Explorer;Cybersecurity+Learner;Open+Source+Contributor" alt="Typing SVG"/>
-</a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=Profile%20Views&color=161b22&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+</div>
 
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Frontend</b></summary>
 <br/>
-
-<p>
-Developer focused on <b>full-stack web apps, React </b> and <b>AI-driven projects</b>.
-</p>
-
 <p align="center">
-  <img 
-  src="https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=000000&style=for-the-badge" 
-  alt="Profile Views"
-/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="Vite"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff" alt="SASS"/>
 </p>
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" alt="REST API"/>
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps & Tools</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="VS Code"/>
+</p>
+</details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages"/>
+</div>
 
 <br/>
 
-<p>
-
-<a href="https://bsky.app/profile/rishichaurasia.bsky.social">
-   <img src="https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" />
-</a>
-<a href="https://instagram.com/rishi_chaurasia_192">
-   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
-</a>
-<a href="https://linkedin.com/in/rishi-chaurasiya">
-   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-<a href="https://x.com/KingRishi2005">
-   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" />
-</a>
-<a href="mailto:rishi.chaurasia.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-</a>
-</p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
 
 <br/>
 
-<h3>Tech Stack</h3> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
+</div>
 
-<h4>Frontend</h4>
-<p>
-  
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFF" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+---
 
-</p>
+## Let's Connect
 
-<h4>Backend</h4>
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-
-</p>
-
-<h4>Databases</h4>
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
-
-</p>
-
-<h4>Deployment</h4>
-<p>
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-
-</p>
-
-<br/>
-<h3>GitHub Stats</h3>
-
-<img
-  src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-<br/>
-
-### Random Dev Quote!
-
-![Visits](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<p>
-  <h3>You can support my work</h3>
-  <a href="https://buymeacoffee.com/rishiships">
-    <img
-      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFFFFF"
-      alt="Buy Me A Coffee"
-/>
+<div align="center">
+  <a href="https://linkedin.com/in/rishi-chaurasiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://x.com/KingRishi2005">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff" alt="X"/>
+  </a>
+  <a href="https://bsky.app/profile/rishichaurasia.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=fff" alt="Bluesky"/>
+  </a>
+  <a href="https://instagram.com/rishi_chaurasia_192">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
+  </a>
+  <a href="mailto:rishi.chaurasia.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
 
 <br/>
+
+### Support My Work
+
+<a href="https://buymeacoffee.com/rishiships">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" alt="Buy Me A Coffee"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
