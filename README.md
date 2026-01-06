@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Rishi%20Chaurasia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=55" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" width="100%" alt="Header"/>
 
+## Hey, I'm Rishi 👋
 <br/>
 
 <!-- Typing Animation -->
