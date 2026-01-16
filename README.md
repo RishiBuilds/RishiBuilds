@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Rishi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=55" width="100%" alt="Header"/>
-</br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Rishi&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Contributor&descSize=14&descAlignY=55" width="100%" alt="Header"/>
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -126,3 +126,5 @@
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
