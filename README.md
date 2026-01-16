@@ -126,5 +126,3 @@
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" alt="Footer"/>
-
-</div>
