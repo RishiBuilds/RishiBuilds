@@ -1,14 +1,19 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Rishi&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Contributor&descSize=14&descAlignY=55" width="100%" alt="Header"/>
+<!-- Dynamic Header -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hey%20👋%20I'm%20Rishi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Explorer%20•%20Open-Source%20Contributor&descSize=16&descAlignY=60"
+    width="100%"
+    alt="Header"
+  />
 
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+full-stack+apps+with+React+%26+Node.js;Exploring+AI+%2F+ML+and+intelligent+systems;Learning+DevOps%2C+Cloud+%26+Cybersecurity;Contributing+to+open+source+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
-
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps;React+•+Next.js+•+Node.js+•+TypeScript;AI+%2F+ML+%26+intelligent+systems;DevOps%2C+Cloud+%26+System+Design;Always+learning%2C+always+shipping+"
+      alt="Typing SVG"
+    />
+  </a>
 </div>
 
 ---
