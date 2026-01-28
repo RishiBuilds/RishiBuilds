@@ -64,20 +64,23 @@ const rishi = {
 
 ---
 
-
-## GitHub Streak
+## GitHub Stats
 
 <div align="center">
-  <img
-  src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -85,41 +88,37 @@ const rishi = {
 ## Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/rishi-chaurasiya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/KingRishi2005">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff" alt="X"/>
-  </a>
-  <a href="https://bsky.app/profile/rishichaurasia.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=fff" alt="Bluesky"/>
-  </a>
-  <a href="https://instagram.com/rishi_chaurasia_192">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
-  </a>
-  <a href="mailto:rishi.chaurasia.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
-  </a>
+
+I'm always excited to connect with fellow developers and creators. Whether you want to collaborate on a project, discuss tech, or just say hi — my inbox is open!
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-chaurasiya)
+[![Twitter](https://img.shields.io/badge/𝕏-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KingRishi2005)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rishichaurasia.bsky.social)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishi_chaurasia_192)
+[![Email](https://img.shields.io/badge/Email-Say_Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishi.chaurasia.dev@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
 
-### Dev Quote of the Day
+### Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
 
-<br/>
+<br>
 
-### Support My Work
+**If you find my work valuable, consider buying me a coffee! ☕**
 
 <a href="https://buymeacoffee.com/rishiships">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" alt="Buy Me A Coffee"/>
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" alt="Buy Me A Coffee"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
