@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hey%20👋%20I'm%20Rishi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Explorer%20•%20Open-Source%20Contributor&descSize=16&descAlignY=60"
-    width="100%"
-    alt="Header"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Rishi%20Chaurasia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descSize=18&descAlignY=52" width="100%" alt="Header"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
