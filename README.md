@@ -15,11 +15,19 @@
 
 ---
 
-### Full-Stack Developer | AI & ML Explorer | DevOps-Curious
+## About Me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=Profile%20Views&color=161b22&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-</div>
+I'm a **Full-Stack Developer** passionate about building elegant, scalable applications that solve real problems. I specialize in modern web technologies and love exploring the intersection of **AI/ML** with everyday software.
+
+```typescript
+const rishi = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    focus: ["Full-Stack Development", "AI/ML Integration", "Open Source"],
+    currentlyBuilding: "AI-powered tools that actually ship",
+    funFact: "I believe good README files are an art form"
+};
+```
 
 ---
 
