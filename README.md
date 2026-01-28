@@ -87,7 +87,7 @@ Remove backgrounds from images instantly with ML precision. Production-ready wit
 
 AI-powered travel companion that creates personalized itineraries with real-time flight data.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/MilesToGo)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/MilesToGo-AI)
 
 `Next.js` `TypeScript` `Gemini AI` `SerpAPI`
 
@@ -101,7 +101,7 @@ AI-powered travel companion that creates personalized itineraries with real-time
 
 Empathetic chat interface with mood tracking and breathing exercises for mental wellness.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/BloomMind)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/bloommind-ai)
 
 `React` `AI/ML` `LocalStorage` `Animations`
 
