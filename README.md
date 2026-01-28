@@ -20,7 +20,7 @@
 I'm a **Full-Stack Developer** passionate about building elegant, scalable applications that solve real problems. I specialize in modern web technologies and love exploring the intersection of **AI/ML** with everyday software.
 
 ```typescript
-const rishi = {
+const Rishi = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
     focus: ["Full-Stack Development", "AI/ML Integration", "Open Source"],
@@ -76,7 +76,6 @@ const rishi = {
 Remove backgrounds from images instantly with ML precision. Production-ready with Docker support.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/SnapErase)
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://snaperase.vercel.app)
 
 `Python` `FastAPI` `Docker` `rembg`
 
