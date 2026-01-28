@@ -64,6 +64,66 @@ const rishi = {
 
 ---
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### SnapErase
+**AI-Powered Background Removal**
+
+Remove backgrounds from images instantly with ML precision. Production-ready with Docker support.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/SnapErase)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://snaperase.vercel.app)
+
+`Python` `FastAPI` `Docker` `rembg`
+
+</td>
+<td width="50%">
+
+### MilesToGo AI
+**Intelligent Trip Planning**
+
+AI-powered travel companion that creates personalized itineraries with real-time flight data.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/MilesToGo)
+
+`Next.js` `TypeScript` `Gemini AI` `SerpAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### BloomMind
+**AI Mental Wellness Companion**
+
+Empathetic chat interface with mood tracking and breathing exercises for mental wellness.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds/BloomMind)
+
+`React` `AI/ML` `LocalStorage` `Animations`
+
+</td>
+<td width="50%">
+
+### More Projects
+**Always Building...**
+
+Check out my repositories for more experiments, tools, and contributions.
+
+[![All Repos](https://img.shields.io/badge/View_All_Repos-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiBuilds?tab=repositories)
+
+`Open Source` `Side Projects` `Experiments`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
