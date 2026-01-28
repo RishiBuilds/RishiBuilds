@@ -3,13 +3,14 @@
 <!-- Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Rishi%20Chaurasia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descSize=18&descAlignY=52" width="100%" alt="Header"/>
 
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps;React+•+Next.js+•+Node.js+•+TypeScript;AI+%2F+ML+%26+intelligent+systems;DevOps%2C+Cloud+%26+System+Design;Always+learning%2C+always+shipping+"
-      alt="Typing SVG"
-    />
-  </a>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-chaurasiya)
+[![Twitter](https://img.shields.io/badge/𝕏-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KingRishi2005)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishi.chaurasia.dev@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=000)](https://buymeacoffee.com/rishiships)
+[![Profile Views](https://komarev.com/ghpvc/?username=RishiBuilds&label=Views&color=1f6feb&style=flat-square)](https://github.com/RishiBuilds)
+
 </div>
 
 ---
