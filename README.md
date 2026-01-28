@@ -20,7 +20,7 @@
 I'm a **Full-Stack Developer** passionate about building elegant, scalable applications that solve real problems. I specialize in modern web technologies and love exploring the intersection of **AI/ML** with everyday software.
 
 ```typescript
-const Rishi = {
+const rishi = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
     focus: ["Full-Stack Development", "AI/ML Integration", "Open Source"],
