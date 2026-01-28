@@ -73,9 +73,10 @@ const rishi = {
 
 <br>
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</div>
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=RishiBuilds&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br>
 
