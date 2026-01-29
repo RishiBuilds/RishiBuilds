@@ -24,7 +24,7 @@ const rishi = {
     location: "India 🇮🇳",
     focus: ["Full-Stack Development", "AI/ML Integration", "Open Source"],
     currentlyBuilding: "AI-powered tools that actually ship",
-    funFact: "I believe good README files are an art form"
+    funFact: "I believe good README files are an absolute art form"
 };
 ```
 
