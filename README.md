@@ -3,7 +3,6 @@
 <!-- Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Rishi%20Chaurasia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descSize=18&descAlignY=52" width="100%" alt="Header"/>
 
-
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-chaurasiya)
 [![Twitter](https://img.shields.io/badge/𝕏-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KingRishi2005)
