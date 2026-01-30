@@ -174,7 +174,9 @@ I'm always excited to connect with fellow developers and creators. Whether you w
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" alt="Buy Me A Coffee"/>
 </a>
 
-<br><br>
+<br>
+<img src="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/snake.svg" alt="Snake animation" />
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="Footer"/>
 
