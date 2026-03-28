@@ -95,12 +95,12 @@ print(me.say_hello())
 
 <div align="center">
 
-|                            Project                              | What It Does                                                                             |            Stack               |    Status     |
-| :-------------------------------------------------------------: | :--------------------------------------------------------------------------------------- | :----------------------------: | :-----------: |
-|   [**SecureVote**](https://github.com/RishiBuilds/SecureVote)   | Encrypted online voting with cryptographic chain integrity, fraud detection & audit logs |   Python, Flask, JWT, Crypto   |  Production   |
-| [**MilesToGo AI**](https://github.com/RishiBuilds/MilesToGo-AI) | AI travel companion — smart itineraries, real-time flights, vendor bargaining engine     | Next.js, TypeScript, Gemini AI |     Live      |
-|    [**SnapErase**](https://github.com/RishiBuilds/SnapErase)    | ML-powered background removal. Upload → magic → download. Instant.                       | Python, FastAPI, Docker, rembg |    Shipped    |
-|  [**BloomMind**](https://github.com/RishiBuilds/bloommind-ai)   | AI wellness companion with mood tracking, breathing exercises & empathetic conversations |  React, AI/ML, CSS Animations  |     Live      |
+|                             Project                             | What It Does                                                                             |             Stack              |   Status   |
+| :-------------------------------------------------------------: | :--------------------------------------------------------------------------------------- | :----------------------------: | :--------: |
+|   [**SecureVote**](https://github.com/RishiBuilds/SecureVote)   | Encrypted online voting with cryptographic chain integrity, fraud detection & audit logs |   Python, Flask, JWT, Crypto   | Production |
+| [**MilesToGo AI**](https://github.com/RishiBuilds/MilesToGo-AI) | AI travel companion — smart itineraries, real-time flights, vendor bargaining engine     | Next.js, TypeScript, Gemini AI |    Live    |
+|    [**SnapErase**](https://github.com/RishiBuilds/SnapErase)    | ML-powered background removal. Upload → magic → download. Instant.                       | Python, FastAPI, Docker, rembg |  Shipped   |
+|  [**BloomMind**](https://github.com/RishiBuilds/bloommind-ai)   | AI wellness companion with mood tracking, breathing exercises & empathetic conversations |  React, AI/ML, CSS Animations  |    Live    |
 
 <br/>
 
