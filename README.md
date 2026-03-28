@@ -234,10 +234,6 @@ print(me.say_hello())
 
 <br/><br/>
 
-<img src="https://profile-counter.glitch.me/RishiBuilds/count.svg" />
-
-<br/><br/>
-
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
@@ -250,6 +246,6 @@ print(me.say_hello())
 ```
 
 <!-- WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6C3BF5,100:0d1117&height=120&section=footer&text=Built+with+coffee+%26+ctrl%2Bc+by+Rishi&fontSize=16&fontColor=ffffff&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6C3BF5,100:0d1117&height=120&section=footer" />
 
 </div>
