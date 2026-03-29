@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3BF5,100:00C9A7&height=200&section=header&text=RISHI%20CHAURASIA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Builder%20%7C%20Shipper%20%7C%20Breaker%20of%20Boring%20Software&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3BF5,100:00C9A7&height=200&section=header&text=RISHI%20CHAURASIA&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Builder%20%7C%20Shipper%20%7C%20Breaker%20of%20Boring%20Software&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=6C3BF5&center=true&vCenter=true&random=false&width=700&lines=%5B+INITIALIZING...+%5D;%5B+LOADING+RISHIBUILDS...+%5D;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;AI-Powered+Everything;Building+in+Public;%22Ship+first%2C+polish+later%22" alt="Typing SVG" />
