@@ -171,11 +171,13 @@ print(me.say_hello())
 
 ## `LIVE STATS`
 
-<div align="center">
+<p align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C3BF5&icon_color=00C9A7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 
-<img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RishiBuilds&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C3BF5&icon_color=00C9A7&text_color=c9d1d9&ring_color=6C3BF5&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RishiBuilds&theme=tokyonight" />
-<img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RishiBuilds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C3BF5&text_color=c9d1d9&langs_count=8" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=RishiBuilds&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C3BF5&ring=6C3BF5&fire=00C9A7&currStreakLabel=c9d1d9" />
+
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C3BF5&text_color=c9d1d9&langs_count=8" />
+</p>
 
 <br/><br/>
 
