@@ -13,6 +13,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=6C3BF5&style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-RishiBuilds-181717?style=flat-square&logo=github&logoColor=00C9A7)](https://github.com/RishiBuilds)
 [![Repos](https://img.shields.io/badge/dynamic/json?label=PUBLIC+REPOS&query=public_repos&url=https://api.github.com/users/RishiBuilds&style=flat-square&color=00C9A7&labelColor=0d1117)](https://github.com/RishiBuilds?tab=repositories)
+[![Stars](https://img.shields.io/badge/dynamic/json?label=STARS&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRishiBuilds&style=flat-square&color=00C9A7&labelColor=0d1117)](https://github.com/RishiBuilds)
 [![Followers](https://img.shields.io/github/followers/RishiBuilds?label=FOLLOWERS&style=flat-square&color=6C3BF5&labelColor=0d1117)](https://github.com/RishiBuilds)
 
 <br/>
@@ -152,18 +153,18 @@ print(me.say_hello())
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║  SKILL ASSESSMENT — RISHIBUILDS                                  ║
+║  SKILL ASSESSMENT — RISHIBUILDS                                   ║
 ╠════════════════════════════╦══════════════════════════════════════╣
-║  TypeScript / JavaScript   ║  ████████████████████░░  90%      ║
-║  React / Next.js           ║  ████████████████████░░  88%      ║
-║  Python (FastAPI / Flask)  ║  ███████████████████░░░  85%      ║
-║  Node.js / Express         ║  ███████████████████░░░  85%      ║
-║  AI/ML Integration         ║  ██████████████████░░░░  80%      ║
-║  PostgreSQL / MongoDB      ║  ██████████████████░░░░  80%      ║
-║  Docker / DevOps           ║  █████████████████░░░░░  75%      ║
-║  System Design             ║  ████████████████░░░░░░  72%      ║
-║  UI/UX Design              ║  ████████████████░░░░░░  70%      ║
-║  LLM Orchestration         ║  ██████████████░░░░░░░░  65%      ║
+║  TypeScript / JavaScript   ║  ████████████████████░░  90%         ║
+║  React / Next.js           ║  ████████████████████░░  88%         ║
+║  Python (FastAPI / Flask)  ║  ███████████████████░░░  85%         ║
+║  Node.js / Express         ║  ███████████████████░░░  85%         ║
+║  AI/ML Integration         ║  ██████████████████░░░░  80%         ║
+║  PostgreSQL / MongoDB      ║  ██████████████████░░░░  80%         ║
+║  Docker / DevOps           ║  █████████████████░░░░░  75%         ║
+║  System Design             ║  ████████████████░░░░░░  72%         ║
+║  UI/UX Design              ║  ████████████████░░░░░░  70%         ║
+║  LLM Orchestration         ║  ██████████████░░░░░░░░  65%         ║
 ╚════════════════════════════╩══════════════════════════════════════╝
 ```
 
@@ -237,7 +238,7 @@ print(me.say_hello())
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   "The best way to predict the future is to build it."          ║
+║   "The best way to predict the future is to build it."           ║
 ║                            — Every builder who ever shipped      ║
 ║                                                                  ║
 ║              [ SESSION TERMINATED — GO BUILD. ]                  ║
