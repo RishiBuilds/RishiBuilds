@@ -95,44 +95,31 @@
   <br/>
 
   <!-- Featured Projects -->
-  <h3>Featured Projects</h3> 
-<table align="center">
-  <tr>
-    <td align="center"><b>SecureVote</b></td>
-    <td align="center"><b>MilesToGo AI</b></td>
-    <td align="center"><b>SnapErase</b></td>
-  </tr>
-  <tr>
-    <td align="center">Encrypted online voting with cryptographic chain integrity & audit logs.</td>
-    <td align="center">AI travel companion - smart itineraries, flights, & vendor bargaining.</td>
-    <td align="center">ML-powered background removal. Upload → magic → download. Instant.</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RishiBuilds/SecureVote"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RishiBuilds/MilesToGo-AI"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RishiBuilds/SnapErase"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+  <h3>🌟 Featured Projects</h3> 
 
-<table align="center">
-  <tr>
-    <td align="center"><b>BloomMind</b></td>
-  </tr>
-  <tr>
-    <td align="center">AI wellness companion with mood tracking, breathing exercises & conversations.</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RishiBuilds/bloommind-ai"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+- [**NoteRoot**](https://github.com/RishiBuilds/NoteRoot)
+  <br> Lightweight, self-hosted markdown wiki shipped as a single zero-dependency Go binary.
+  <br> **Tech: Go, Markdown, File-based Architecture**
+
+- [**MilesToGo-AI**](https://github.com/RishiBuilds/MilesToGo-AI)
+  <br> AI-powered travel planner generating intelligent, multi-day itineraries with interactive 3D globe visualization.
+  <br> **Tech: TypeScript, Next.js, AI Integrations**
+
+- [**RepoLens-IQ**](https://github.com/RishiBuilds/RepoLens-IQ)
+  <br> Repository visualization tool that instantly maps codebase architecture, dependencies, and security risks.
+  <br> **Tech: JavaScript/TypeScript, DOM parsing, Graphing**
+
+- [**VyaparKhata**](https://github.com/RishiBuilds/VyaparKhata)
+  <br> Full-stack, GST-compliant billing and ledger (Khata) solution for Indian SMBs.
+  <br> **Tech: Web Technologies, Database Architecture**
+
+- [**transforming-optimus-prime**](https://github.com/RishiBuilds/transforming-optimus-prime)
+  <br> High-performance scroll-driven interactive web experience with 200+ cinematic animation frames.
+  <br> **Tech: TypeScript, Canvas, Framer Motion**
+
+</div>
 
   <br/>
 
