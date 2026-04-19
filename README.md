@@ -9,9 +9,9 @@
   <br/>
 
   <p>
-    🧑‍🎓 Full-Stack Developer × AI Builder<br>
-    🎓 Specialized in AI-Integrated Full-Stack Development<br>
-    ⚡ Always Shipping - Building SaaS platforms, AI tools, production apps
+    🚀 Full-Stack Software Engineer &times; AI Solutions Architect<br>
+    🧠 Specialized in LLM Integration, Agentic Workflows & Scalable Systems<br>
+    ⚡ Always Shipping &mdash; Architecting highly performant SaaS, robust AI prototypes, and production tooling
   </p>
   
   <p>
@@ -95,29 +95,29 @@
   <br/>
 
   <!-- Featured Projects -->
-  <h3>🌟 Featured Projects</h3> 
+  <h3>🌟 Featured Projects</h3>
 
 <div align="left">
 
 - [**NoteRoot**](https://github.com/RishiBuilds/NoteRoot)
-  <br> Lightweight, self-hosted markdown wiki shipped as a single zero-dependency Go binary.
-  <br> **Tech: Go, Markdown, File-based Architecture**
+  <br> High-performance, self-hosted markdown knowledge base shipped as a statically compiled, zero-dependency Go binary.
+  <br> **Tech: Go (Golang), Markdown Parsing, Flat-File Architecture**
 
 - [**MilesToGo-AI**](https://github.com/RishiBuilds/MilesToGo-AI)
-  <br> AI-powered travel planner generating intelligent, multi-day itineraries with interactive 3D globe visualization.
-  <br> **Tech: TypeScript, Next.js, AI Integrations**
+  <br> AI-native travel planning engine orchestrating multi-day itineraries with interactive 3D geospatial visualization.
+  <br> **Tech: TypeScript, Next.js, LLM Integration, WebGL**
 
 - [**RepoLens-IQ**](https://github.com/RishiBuilds/RepoLens-IQ)
-  <br> Repository visualization tool that instantly maps codebase architecture, dependencies, and security risks.
-  <br> **Tech: JavaScript/TypeScript, DOM parsing, Graphing**
+  <br> AST-driven repository telemetry tool that dynamically maps codebase topology, dependency graphs, and security vectors.
+  <br> **Tech: TypeScript, DOM/AST Parsing, Graph Visualization**
 
 - [**VyaparKhata**](https://github.com/RishiBuilds/VyaparKhata)
-  <br> Full-stack, GST-compliant billing and ledger (Khata) solution for Indian SMBs.
-  <br> **Tech: Web Technologies, Database Architecture**
+  <br> Full-stack, GST-compliant billing and ledger (Khata) platform optimized for secure, high-volume transactions.
+  <br> **Tech: React, Node.js, Relational DB Architecture**
 
 - [**transforming-optimus-prime**](https://github.com/RishiBuilds/transforming-optimus-prime)
-  <br> High-performance scroll-driven interactive web experience with 200+ cinematic animation frames.
-  <br> **Tech: TypeScript, Canvas, Framer Motion**
+  <br> Hardware-accelerated, scroll-driven interactive progression experience rendering 200+ cinematic frames at 60FPS.
+  <br> **Tech: TypeScript, HTML5 Canvas API, Framer Motion**
 
 </div>
 
