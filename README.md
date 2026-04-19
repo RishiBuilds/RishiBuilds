@@ -95,29 +95,21 @@
   <br/>
 
   <!-- Featured Projects -->
-  <h3>🌟 Featured Projects</h3>
+  <h3>Featured Projects</h3>
 
-<div align="left">
+<div align="center">
 
-- [**NoteRoot**](https://github.com/RishiBuilds/NoteRoot)
-  <br> High-performance, self-hosted markdown knowledge base shipped as a statically compiled, zero-dependency Go binary.
-  <br> **Tech: Go (Golang), Markdown Parsing, Flat-File Architecture**
+|                                                                                      **NoteRoot**                                                                                       |                                                                               **MilesToGo-AI**                                                                                |                                                                                    **RepoLens-IQ**                                                                                     |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| High-performance, self-hosted markdown knowledge base shipped as a statically compiled, zero-dependency Go binary.<br><br>_Tech: Go (Golang), Markdown Parsing, Flat-File Architecture_ | AI-native travel planning engine orchestrating multi-day itineraries with interactive 3D geospatial visualization.<br><br>_Tech: TypeScript, Next.js, LLM Integration, WebGL_ | AST-driven repository telemetry tool that dynamically maps codebase topology, dependency graphs, and security vectors.<br><br>_Tech: TypeScript, DOM/AST Parsing, Graph Visualization_ |
+|                    [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/NoteRoot)                     |             [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/MilesToGo-AI)              |                  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/RepoLens-IQ)                   |
 
-- [**MilesToGo-AI**](https://github.com/RishiBuilds/MilesToGo-AI)
-  <br> AI-native travel planning engine orchestrating multi-day itineraries with interactive 3D geospatial visualization.
-  <br> **Tech: TypeScript, Next.js, LLM Integration, WebGL**
+<br/>
 
-- [**RepoLens-IQ**](https://github.com/RishiBuilds/RepoLens-IQ)
-  <br> AST-driven repository telemetry tool that dynamically maps codebase topology, dependency graphs, and security vectors.
-  <br> **Tech: TypeScript, DOM/AST Parsing, Graph Visualization**
-
-- [**VyaparKhata**](https://github.com/RishiBuilds/VyaparKhata)
-  <br> Full-stack, GST-compliant billing and ledger (Khata) platform optimized for secure, high-volume transactions.
-  <br> **Tech: React, Node.js, Relational DB Architecture**
-
-- [**transforming-optimus-prime**](https://github.com/RishiBuilds/transforming-optimus-prime)
-  <br> Hardware-accelerated, scroll-driven interactive progression experience rendering 200+ cinematic frames at 60FPS.
-  <br> **Tech: TypeScript, HTML5 Canvas API, Framer Motion**
+|                                                                             **VyaparKhata**                                                                             |                                                                       **transforming-optimus-prime**                                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Full-stack, GST-compliant billing and ledger (Khata) platform optimized for secure, high-volume transactions.<br><br>_Tech: React, Node.js, Relational DB Architecture_ | Hardware-accelerated, scroll-driven interactive progression experience rendering 200+ cinematic frames at 60FPS.<br><br>_Tech: TypeScript, HTML5 Canvas API, Framer Motion_ |
+|           [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/VyaparKhata)           |     [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/transforming-optimus-prime)      |
 
 </div>
 
