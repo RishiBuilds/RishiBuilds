@@ -130,7 +130,7 @@
   </div>
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=RishiBuilds&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&v=2" height="150" alt="streak graph" />
+    <img src="./assets/streak-stats.svg" height="150" alt="streak graph" />
   </div>
 
   <div align="center">
