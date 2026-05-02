@@ -16,10 +16,9 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/stars/RishiBuilds?style=for-the-badge&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=000000&color=000000"  />
+    <img src="https://img.shields.io/github/stars/RishiBuilds?style=for-the-badge&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=000000&color=000000" />
+    <img src="https://img.shields.io/github/followers/RishiBuilds?style=for-the-badge&label=Followers&logo=github&logoColor=white&labelColor=000000&color=000000" />
   </p>
-
-  <br/>
 
   <!-- Socials -->
   <p>
@@ -33,8 +32,10 @@
 
   <br/>
 
+---
+
   <!-- Tech Stack -->
-  <h3>Tech Stack</h3>
+  <h2>Tech Stack</h2>
 
   <!-- Frontend -->
   <h4>Frontend</h4>
@@ -67,6 +68,7 @@
     <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white" />
   </p>
 
   <!-- AI & ML -->
@@ -94,8 +96,10 @@
   
   <br/>
 
+---
+
   <!-- Featured Projects -->
-  <h3>Featured Projects</h3>
+  <h2>Featured Projects</h2>
 
 <div align="center">
 
@@ -115,23 +119,31 @@
 
   <br/>
 
-  <!-- Stats -->
-  <h3>GitHub Stats</h3>
+---
+
+  <!-- GitHub Stats -->
+  <h2>GitHub Stats</h2>
+
   <div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&card_width=320&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&v=2" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&card_width=320&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&v=2" height="150" alt="languages graph" />
   </div>
+
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RishiBuilds&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
-    <img src="https://trophy.ryglcloud.net/?username=RishiBuilds&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true" height="150" alt="trophy graph" />
+    <img src="https://streak-stats.demolab.com?user=RishiBuilds&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&v=2" height="150" alt="streak graph" />
   </div>
+
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" height="300" alt="activity-graph graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RishiBuilds&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&v=2" height="150" alt="trophy graph" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&v=2" height="300" alt="activity-graph graph" />
   </div>
 
   <br/>
-  
-  <br/>
+
+---
 
   <!-- Snake Animation -->
   <picture>
