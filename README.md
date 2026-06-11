@@ -106,14 +106,14 @@
 |                                                                                      **NoteRoot**                                                                                       |                                                                               **MilesToGo-AI**                                                                                |                                                                                    **RepoLens-IQ**                                                                                     |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | High-performance, self-hosted markdown knowledge base shipped as a statically compiled, zero-dependency Go binary.<br><br>_Tech: Go (Golang), Markdown Parsing, Flat-File Architecture_ | AI-native travel planning engine orchestrating multi-day itineraries with interactive 3D geospatial visualization.<br><br>_Tech: TypeScript, Next.js, LLM Integration, WebGL_ | AST-driven repository telemetry tool that dynamically maps codebase topology, dependency graphs, and security vectors.<br><br>_Tech: TypeScript, DOM/AST Parsing, Graph Visualization_ |
-|                    [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/NoteRoot)                     |             [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/MilesToGo-AI)              |                  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/RepoLens-IQ)                   |
+|                    [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/NoteRoot) [![Stars](https://img.shields.io/github/stars/RishiBuilds/NoteRoot?style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/RishiBuilds/NoteRoot)                     |             [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/MilesToGo-AI) [![Stars](https://img.shields.io/github/stars/RishiBuilds/MilesToGo-AI?style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/RishiBuilds/MilesToGo-AI)              |                  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/RepoLens-IQ) [![Stars](https://img.shields.io/github/stars/RishiBuilds/RepoLens-IQ?style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/RishiBuilds/RepoLens-IQ)                   |
 
 <br/>
 
 |                                                                             **VyaparKhata**                                                                             |                                                                       **transforming-optimus-prime**                                                                        |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Full-stack, GST-compliant billing and ledger (Khata) platform optimized for secure, high-volume transactions.<br><br>_Tech: React, Node.js, Relational DB Architecture_ | Hardware-accelerated, scroll-driven interactive progression experience rendering 200+ cinematic frames at 60FPS.<br><br>_Tech: TypeScript, HTML5 Canvas API, Framer Motion_ |
-|           [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/VyaparKhata)           |     [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/transforming-optimus-prime)      |
+|           [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/VyaparKhata) [![Stars](https://img.shields.io/github/stars/RishiBuilds/VyaparKhata?style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/RishiBuilds/VyaparKhata)           |     [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishiBuilds/transforming-optimus-prime) [![Stars](https://img.shields.io/github/stars/RishiBuilds/transforming-optimus-prime?style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/RishiBuilds/transforming-optimus-prime)      |
 
 </div>
 
@@ -127,17 +127,10 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&v=2" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&card_width=320&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&v=2" height="150" alt="languages graph" />
-  </div>
-
-  <div align="center">
-    <img src="./assets/streak-stats.svg" height="150" alt="streak graph" />
-  </div>
-
-  <div align="center">
+    <br/>
+    <img src="https://streak-stats.demolab.com?user=RishiBuilds&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
     <img src="https://github-profile-trophy.vercel.app/?username=RishiBuilds&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&v=2" height="150" alt="trophy graph" />
-  </div>
-
-  <div align="center">
+    <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&v=2" height="300" alt="activity-graph graph" />
   </div>
 
