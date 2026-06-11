@@ -16,7 +16,7 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/endpoint?url=https://api.github-star-counter.workers.dev/user/RishiBuilds&style=for-the-badge&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=000000&color=000000" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRishiBuilds&query=%24.stars&style=for-the-badge&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=000000&color=000000" />
     <img src="https://img.shields.io/github/followers/RishiBuilds?style=for-the-badge&label=Followers&logo=github&logoColor=white&labelColor=000000&color=000000" />
   </p>
 
