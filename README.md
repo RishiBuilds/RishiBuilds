@@ -11,6 +11,7 @@
 <a href="https://x.com/KingRishi2005"><img src="https://img.shields.io/badge/x-1a1a1a?style=flat-square&logo=x&logoColor=2EE6A6" /></a>
 <a href="https://bsky.app/profile/rishichaurasia.bsky.social"><img src="https://img.shields.io/badge/bluesky-1a1a1a?style=flat-square&logo=bluesky&logoColor=2EE6A6" /></a>
 <a href="https://instagram.com/rishi_chaurasia_192"><img src="https://img.shields.io/badge/instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=2EE6A6" /></a>
+<a href="https://github.com/RishiBuilds"><img src="https://img.shields.io/badge/github-1a1a1a?style=flat-square&logo=github&logoColor=2EE6A6" /></a>
 
 </div>
 
@@ -39,7 +40,7 @@ $ ls projects/ --sort=featured
 <tr><td width="25%"><b>MilesToGo-AI</b><br><sub>TypeScript · Next.js · WebGL</sub></td><td>AI-native travel planner orchestrating multi-day itineraries with 3D geospatial visualization.</td><td align="right"><a href="https://github.com/RishiBuilds/MilesToGo-AI">→</a></td></tr>
 <tr><td width="25%"><b>RepoLens-IQ</b><br><sub>TypeScript · AST parsing</sub></td><td>AST-driven repo telemetry mapping codebase topology, dependency graphs, and security vectors.</td><td align="right"><a href="https://github.com/RishiBuilds/RepoLens-IQ">→</a></td></tr>
 <tr><td width="25%"><b>VyaparKhata</b><br><sub>React · Node.js</sub></td><td>GST-compliant billing & ledger platform built for secure, high-volume transactions.</td><td align="right"><a href="https://github.com/RishiBuilds/VyaparKhata">→</a></td></tr>
-<tr><td width="25%"><b>transforming-optimus-prime</b><br><sub>TypeScript · Canvas API</sub></td><td>Scroll-driven cinematic experience rendering 200+ frames at 60FPS.</td><td align="right"><a href="https://github.com/RishiBuilds/transforming-optimus-prime">→</a></td></tr>
+<tr><td width="25%"><b>transforming-optimus-prime</b><br><sub>TypeScript · Canvas API · Framer Motion</sub></td><td>Scroll-driven cinematic experience rendering 200+ frames at 60FPS.</td><td align="right"><a href="https://github.com/RishiBuilds/transforming-optimus-prime">→</a></td></tr>
 </table>
 
 <br>
@@ -54,6 +55,8 @@ $ git log --stat --author=rishi
 <img src="https://streak-stats.demolab.com?user=RishiBuilds&hide_border=true&background=00000000&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6&currStreakNum=8b8b8b&sideNums=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=2EE6A6&text_color=8b8b8b" height="150" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&bg_color=00000000&color=8b8b8b&line=2EE6A6&point=2EE6A6&area=true&hide_border=true" height="300" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/github-contribution-grid-snake.svg" />
@@ -61,6 +64,8 @@ $ git log --stat --author=rishi
 </picture>
 
 <br>
+
+---
 
 <sub>
 <img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=views&color=1a1a1a&style=flat-square" />
