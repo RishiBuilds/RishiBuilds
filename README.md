@@ -45,6 +45,7 @@ Full-stack engineer building agentic workflows, scalable systems, and production
 
 <img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=888888&text_color=888888" height="150" />
+<img src="https://streak-stats.demolab.com?user=RishiBuilds&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888&currStreakNum=888888&sideNums=888888&sideLabels=888888&dates=888888" height="150" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/github-contribution-grid-snake-dark.svg" />
