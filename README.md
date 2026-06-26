@@ -2,19 +2,19 @@
 
 # Hi, I'm Rishi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=888888&background=00000000&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;AI+Solutions+Architect;Indie+Hacker;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;AI+Solutions+Architect;Indie+Hacker;Open+Source+Contributor" alt="Typing SVG" />
 
 Full-stack engineer building agentic workflows, scalable systems, and production AI tooling.
 
-<a href="mailto:rishi.chaurasia.dev@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/rishi-chaurasiya"><img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/KingRishi2005"><img src="https://img.shields.io/badge/X-grey?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://bsky.app/profile/rishichaurasia.bsky.social"><img src="https://img.shields.io/badge/Bluesky-grey?style=flat-square&logo=bluesky&logoColor=white" /></a>
-<a href="https://instagram.com/rishi_chaurasia_192"><img src="https://img.shields.io/badge/Instagram-grey?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:rishi.chaurasia.dev@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rishi-chaurasiya"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/KingRishi2005"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://bsky.app/profile/rishichaurasia.bsky.social"><img src="https://img.shields.io/badge/Bluesky-black?style=flat-square&logo=bluesky&logoColor=white" /></a>
+<a href="https://instagram.com/rishi_chaurasia_192"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <sub>
-<img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=Profile+Views&color=grey&style=flat-square" />
-<img src="https://img.shields.io/github/followers/RishiBuilds?style=flat-square&label=Followers&color=grey" />
+<img src="https://komarev.com/ghpvc/?username=RishiBuilds&label=Profile+Views&color=black&style=flat-square" />
+<img src="https://img.shields.io/github/followers/RishiBuilds?style=flat-square&label=Followers&color=black" />
 </sub>
 
 </div>
@@ -43,9 +43,9 @@ Full-stack engineer building agentic workflows, scalable systems, and production
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=888888&text_color=888888" height="150" />
-<img src="https://streak-stats.demolab.com?user=RishiBuilds&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888&currStreakNum=888888&sideNums=888888&sideLabels=888888&dates=888888" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=000000&text_color=000000" height="150" />
+<img src="https://streak-stats.demolab.com?user=RishiBuilds&hide_border=true&background=00000000&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=000000" height="150" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishiBuilds/RishiBuilds/output/github-contribution-grid-snake-dark.svg" />
