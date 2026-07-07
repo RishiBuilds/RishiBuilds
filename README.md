@@ -51,9 +51,9 @@ $ git log --stat --author=rishi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=2EE6A6&text_color=8b8b8b&icon_color=2EE6A6" height="150" />
-<img src="https://streak-stats.demolab.com?user=RishiBuilds&hide_border=true&background=00000000&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6&currStreakNum=8b8b8b&sideNums=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=2EE6A6&text_color=8b8b8b" height="150" />
+<img src="https://github-stats-extended.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=2EE6A6&text_color=8b8b8b&icon_color=2EE6A6" height="150" />
+<img src="https://streak-stats.vercel.app?user=RishiBuilds&hide_border=true&background=00000000&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6&currStreakNum=8b8b8b&sideNums=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" height="150" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=RishiBuilds&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=2EE6A6&text_color=8b8b8b" height="150" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiBuilds&bg_color=00000000&color=8b8b8b&line=2EE6A6&point=2EE6A6&area=true&hide_border=true" height="300" />
 
