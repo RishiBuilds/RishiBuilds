@@ -124,13 +124,13 @@ Scroll-driven cinematic experience — renders 200+ frames at 60 FPS using raw C
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4b5563&icon_color=6366f1&rank_icon=github&include_all_commits=true&count_private=true&custom_title=github+stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=RishiBuilds&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4b5563&icon_color=6366f1&rank_icon=github&include_all_commits=true&count_private=true&custom_title=github+stats&cache_seconds=86400" height="160" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiBuilds&hide_border=true&background=ffffff&ring=6366f1&fire=f59e0b&currStreakLabel=1a1a2e&currStreakNum=1a1a2e&sideNums=4b5563&sideLabels=4b5563&dates=9ca3af" height="160" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RishiBuilds&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4b5563&langs_count=8" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBuilds&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4b5563&langs_count=8&cache_seconds=86400" height="140" />
 
 </div>
 
