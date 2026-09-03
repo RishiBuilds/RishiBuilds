@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=52&duration=3000&pause=800&color=1a1a2e&center=true&vCenter=true&width=600&height=80&lines=hey%2C+I'm+Rishi;I+build+things+that+ship" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=52&duration=3000&pause=800&color=e6edf3&center=true&vCenter=true&width=600&height=80&lines=hey%2C+I'm+Rishi;I+build+things+that+ship" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=52&duration=3000&pause=800&color=1a1a2e&center=true&vCenter=true&width=600&height=80&lines=hey%2C+I'm+Rishi;I+build+things+that+ship" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=52&duration=3000&pause=800&color=1a1a2e&center=true&vCenter=true&width=600&height=80&lines=hey%2C+I'm+Rishi;I+build+things+that+ship" alt="Typing SVG" />
+</picture>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=22&duration=2500&pause=600&color=6b7280&center=true&vCenter=true&width=500&height=40&lines=full-stack+%C2%B7+AI+engineer+%C2%B7+agentic+systems" alt="subtitle" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=22&duration=2500&pause=600&color=8b9db0&center=true&vCenter=true&width=500&height=40&lines=full-stack+%C2%B7+AI+engineer+%C2%B7+agentic+systems" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&size=22&duration=2500&pause=600&color=6b7280&center=true&vCenter=true&width=500&height=40&lines=full-stack+%C2%B7+AI+engineer+%C2%B7+agentic+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=22&duration=2500&pause=600&color=6b7280&center=true&vCenter=true&width=500&height=40&lines=full-stack+%C2%B7+AI+engineer+%C2%B7+agentic+systems" alt="subtitle" />
+</picture>
 
 </div>
 
