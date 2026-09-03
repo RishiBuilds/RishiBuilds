@@ -53,7 +53,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=openai&logoColor=white" height="16" /> SketchMind**
+**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=figma&logoColor=white" height="16" /> SketchMind**
 `Next.js · Clerk · Neon · Drizzle`
 
 AI-powered interactive whiteboard — describe a diagram in plain English, watch it render live on an Excalidraw canvas.
