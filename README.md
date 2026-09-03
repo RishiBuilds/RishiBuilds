@@ -53,7 +53,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/‎-1a1a2e?style=flat-square&logo=openai&logoColor=white" height="16" /> SketchMind**
+**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=openai&logoColor=white" height="16" /> SketchMind**
 `Next.js · Clerk · Neon · Drizzle`
 
 AI-powered interactive whiteboard — describe a diagram in plain English, watch it render live on an Excalidraw canvas.
@@ -63,7 +63,7 @@ AI-powered interactive whiteboard — describe a diagram in plain English, watch
 </td>
 <td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/‎-1a1a2e?style=flat-square&logo=googlemaps&logoColor=white" height="16" /> MilesToGo-AI**
+**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=googlemaps&logoColor=white" height="16" /> MilesToGo-AI**
 `TypeScript · Next.js · WebGL`
 
 AI-native travel planner — orchestrates multi-day itineraries with 3D geospatial visualization.
@@ -75,7 +75,7 @@ AI-native travel planner — orchestrates multi-day itineraries with 3D geospati
 <tr>
 <td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/‎-1a1a2e?style=flat-square&logo=telescope&logoColor=white" height="16" /> RepoLens-IQ**
+**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=grafana&logoColor=white" height="16" /> RepoLens-IQ**
 `TypeScript · AST parsing`
 
 AST-driven repo telemetry — maps codebase topology, dependency graphs, and security vectors automatically.
@@ -85,7 +85,7 @@ AST-driven repo telemetry — maps codebase topology, dependency graphs, and sec
 </td>
 <td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/‎-1a1a2e?style=flat-square&logo=markdown&logoColor=white" height="16" /> NoteRoot**
+**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=markdown&logoColor=white" height="16" /> NoteRoot**
 `Go · flat-file`
 
 Self-hosted markdown knowledge base compiled to a zero-dependency static binary. Lightweight by design.
@@ -97,7 +97,7 @@ Self-hosted markdown knowledge base compiled to a zero-dependency static binary.
 <tr>
 <td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/‎-1a1a2e?style=flat-square&logo=cashapp&logoColor=white" height="16" /> VyaparKhata**
+**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=cashapp&logoColor=white" height="16" /> VyaparKhata**
 `React · Node.js`
 
 GST-compliant billing & ledger platform — built for secure, high-volume transactions at scale.
@@ -107,7 +107,7 @@ GST-compliant billing & ledger platform — built for secure, high-volume transa
 </td>
 <td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/‎-1a1a2e?style=flat-square&logo=framer&logoColor=white" height="16" /> Optimus Prime**
+**<img src="https://img.shields.io/badge/%20-1a1a2e?style=flat-square&logo=framer&logoColor=white" height="16" /> Optimus Prime**
 `TypeScript · Canvas API · Framer Motion`
 
 Scroll-driven cinematic experience — renders 200+ frames at 60 FPS using raw Canvas API.
